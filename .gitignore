@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+build/
+dist/
+*.spec
+*.mp4
+*.srt

@@ -1,0 +1,7 @@
+# Núcleo (obligatorio)
+PySide6>=6.6
+numpy>=1.24
+# Reencuadre automático a la cara (opcional pero recomendado)
+opencv-python-headless>=4.8,<5
+# Subtítulos automáticos y quitar muletillas con Whisper LOCAL (opcional)
+faster-whisper>=1.0
